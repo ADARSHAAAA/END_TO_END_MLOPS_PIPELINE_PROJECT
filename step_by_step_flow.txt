@@ -1,0 +1,17 @@
+1.  create a repo on github and clone it on local device 
+2.  create a experiments folder 
+3.  create a notebook ipynb inside the experiments folder 
+4.  Add the .csv file inside the experimets folder 
+5.  Now i am working on ipynb notbook 
+        -- process to make env 
+            --Run these commands on conda 
+                -> conda activate base
+                -> python --version
+                ->  conda create -n myenv python=3.13.5 -y
+                -> conda activate myenv
+                -> pip install ipykernel
+                -> python -m ipykernel install --user --name=myenv
+                -> now install all libraries 
+6.  notebook is completed 
+7. 
+    
