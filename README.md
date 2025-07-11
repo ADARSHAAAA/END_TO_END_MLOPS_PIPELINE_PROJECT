@@ -1,6 +1,6 @@
 # END_TO_END_MLOPS_PIPELINE_PROJECT
 
-Project Overview::->
+Project Overview::-
 
 Data Collection & Ingestion: 
       Collected and ingested a spam dataset, including error handling to manage any data loading issues.
